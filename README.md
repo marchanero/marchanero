@@ -9,6 +9,11 @@
 
 ### 🛠️ Languages and Tools :
 TODO
+C#
+Python
+C/C++
+Javascript
+VueJS
 
 
 ### 🔥 My Stats :
