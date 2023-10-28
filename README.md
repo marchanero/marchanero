@@ -17,7 +17,6 @@ VueJS
 
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marchanero&theme=dark&background=000000)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=marchanero&theme=dark&border_radius=5&card_width=530)](https://git.io/streak-stats)
 
 
