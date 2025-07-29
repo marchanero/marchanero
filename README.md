@@ -41,8 +41,6 @@ I'm a **researcher**, **professor**, and **developer** passionate about bridging
 ---
 
 ### 🛠️ Tech Stack & Tools
-
-```plaintext
 • Python      • C++         • C#
 • JavaScript  • Vue.js      • Node.js
 • MongoDB     • Docker      • Git / GitHub
