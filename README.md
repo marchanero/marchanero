@@ -16,7 +16,7 @@ I'm a **researcher**, **professor**, and **developer** passionate about bridging
 - 👨‍🏫 Assistant Professor at [Universidad de Castilla-La Mancha (UCLM)](https://www.uclm.es)
 - 🎓 PhD in Computer Science · MSc in Industrial Engineering · BSc in Electronics & Automation
 - 🌍 International research stay at Polytechnic Institute of Leiria (Portugal)
-- 🔗 Personal Website: [www.robertosanchezreolid.ovh](https://marchanero.netlify.app)
+- 🔗 Personal Website: [www.robertosanchezreolid.ovh](https://robertosanchezreolid.netlify.app/)
 
 ---
 
