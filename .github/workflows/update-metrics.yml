@@ -1,0 +1,45 @@
+name: Update Scholar metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # weekly, Monday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scrape metrics from website and patch README
+        run: |
+          python3 - <<'PY'
+          import re, urllib.request
+          html = urllib.request.urlopen("https://robertosanchezreolid.netlify.app/").read().decode()
+          vals = dict(
+              (label, value)
+              for value, label in re.findall(
+                  r'readout-value">\s*([\d.,]+)\s*</div>\s*<div class="readout-label">([^<]+)<', html)
+          )
+          cit, h, i10, papers = (vals[k] for k in ("Citas", "h-index", "i10-index", "Papers"))
+          block = (
+              "<!-- METRICS:START -->\n"
+              f"![Citations](https://img.shields.io/badge/Citations-{cit}-4285F4?style=flat-square&logo=googlescholar&logoColor=white)\n"
+              f"![h-index](https://img.shields.io/badge/h--index-{h}-success?style=flat-square)\n"
+              f"![i10-index](https://img.shields.io/badge/i10--index-{i10}-success?style=flat-square)\n"
+              f"![Papers](https://img.shields.io/badge/Papers-{papers}-informational?style=flat-square)\n"
+              "<!-- METRICS:END -->"
+          )
+          s = open("README.md").read()
+          s = re.sub(r"<!-- METRICS:START -->.*?<!-- METRICS:END -->", block, s, flags=re.S)
+          open("README.md", "w").write(s)
+          PY
+      - name: Commit if changed
+        run: |
+          git diff --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update Scholar metrics"
+          git push

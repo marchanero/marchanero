@@ -1,62 +1,121 @@
-### 👋 Hi there!
-
-## I'm Roberto Sánchez Reolid, PhD.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+# Roberto Sánchez Reolid, PhD
+
+**AI · Physiological signals · Fall detection · Federated learning · Edge AI**
+
+Assistant Professor & Researcher at [Universidad de Castilla-La Mancha (UCLM)](https://www.uclm.es) 🇪🇸
+
+[![Website](https://img.shields.io/badge/Website-robertosanchezreolid.netlify.app-0A66C2?style=for-the-badge&logo=astro&logoColor=white)](https://robertosanchezreolid.netlify.app/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PCALePwAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4455-370X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Roberto-Sanchez-Reolid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sanchez-reolid-phd-19215b4a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marchanero)
+
+<!-- METRICS:START -->
+![Citations](https://img.shields.io/badge/Citations-888-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![h-index](https://img.shields.io/badge/h--index-16-success?style=flat-square)
+![i10-index](https://img.shields.io/badge/i10--index-22-success?style=flat-square)
+![Papers](https://img.shields.io/badge/Papers-62-informational?style=flat-square)
+<!-- METRICS:END -->
+![Status](https://img.shields.io/badge/Open%20to-collaborations-brightgreen?style=flat-square)
+
 </div>
 
 ---
 
-### 👨‍🔬 About Me
+## 👨‍🔬 About me
 
-I'm a **researcher**, **professor**, and **developer** passionate about bridging the gap between **data science** and **real-world impact**.
+I'm a researcher, professor and developer working to bridge **data science** and **real-world impact**: from wearable sensors and computer vision to adaptive education and healthcare.
 
-- 🧠 Specialized in physiological signal processing, fall detection, and AI in healthcare and education
-- 👨‍🏫 Assistant Professor at [Universidad de Castilla-La Mancha (UCLM)](https://www.uclm.es)
 - 🎓 PhD in Computer Science · MSc in Industrial Engineering · BSc in Electronics & Automation
-- 🌍 International research stay at Polytechnic Institute of Leiria (Portugal)
-- 🔗 Personal Website: [www.robertosanchezreolid.ovh](https://robertosanchezreolid.netlify.app/)
+- 🌍 Research stay at the Polytechnic Institute of Leiria (Portugal)
+- 📬 Contact: [robertosanchezreolid.netlify.app/contacto](https://robertosanchezreolid.netlify.app/contacto)
+
+## 🔎 Research lines
+
+| | |
+|---|---|
+| 🧍 **Fall detection** | Vision and pose estimation (YOLO, SAM, MMPose) |
+| 💓 **Physiological signals** | ML for EDA, ECG, EEG and accelerometry |
+| 🤝 **Federated learning** | Wearable devices and LLMs for personalized telecare |
+| 📡 **IoT & Edge AI** | Real-time data systems on embedded hardware |
+| 🧠 **Educational AI** | Attention and support for neurodiverse students |
+
+## 🚀 Current projects
+
+- **Smart classrooms** *(2025–2027)*: AI, computer vision and embedded technologies to detect and improve student attention in real time.
+- **Extended reality for fear and anxiety** *(2024–2027, PID2023-149753OB-C21)*: XR and neurophysiological responses to detect and alleviate fear and anxiety.
+
+More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreolid.netlify.app/proyectos).
+
+## 📚 Recent publications (2026)
+
+- *EEG activity during a vigilance task reveals distinct frequency band patterns in gifted children*. **Scientific Reports**.
+- *Comparative Evaluation of Recent Deep Architectures for Arousal Classification from Electrodermal Activity*. **IWINAC**.
+- *Safe fall: use of predictive modeling and machine vision techniques for fall analysis and fall quality*. **Sensors** 26(8), 2491.
+
+➡️ [Full list on Google Scholar](https://scholar.google.com/citations?user=PCALePwAAAAJ&sortby=pubdate) · [ResearchGate](https://www.researchgate.net/profile/Roberto-Sanchez-Reolid)
+
+## 💻 Tech stack
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**AI & data** &nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Web & backend** &nbsp;
+![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-2C2052?style=flat-square&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**IoT, data & cloud** &nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=marchanero&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchanero&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+
+</div>
 
 ---
 
-### 🔎 Research & Interests
+<div align="center">
 
-- Fall detection using vision and pose estimation (YOLO, SAM, MMPose)
-- Machine Learning for biosignal analysis (EDA, ECG, accelerometry)
-- Federated learning with wearable devices and LLMs
-- Real-time data systems with IoT and edge AI
-- Educational AI for neurodiverse student support
-
----
-
-### 📚 Selected Publications
-
-- 📄 Sánchez-Reolid, R. et al. (2023). *Federated Learning Architectures for Personalized Telecare*. [DOI]
-- 📄 Sánchez-Reolid, R. et al. (2022). *Automatic Detection of Protective Strategies During Falls Using Pose Estimation*. [DOI]
-- 📄 Sánchez-Reolid, R. et al. (2021). *Edge Computing in AI-enhanced Education*. [DOI]
-
-➡️ [Full publication list](https://www.researchgate.net/profile/Roberto-Sanchez-Reolid)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marchanero) 
-
-### ☕ Support My Work
-
-If you like what I do, you can [buy me a coffee](https://buymeacoffee.com/marchanero) 🙌
+☕ If you like what I do, you can [buy me a coffee](https://buymeacoffee.com/marchanero)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/marchanero)
+[![Visitors](https://visitcount.itsvg.in/api?id=marchanero&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-# 🔥 My Stats :
-![](https://nirzak-streak-stats.vercel.app/?user=marchanero&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marchanero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=marchanero&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
+</div>
