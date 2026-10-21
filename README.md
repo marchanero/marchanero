@@ -102,12 +102,23 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 
 ## 📊 GitHub stats
 
-<div align="center">
+![Followers](https://img.shields.io/github/followers/marchanero?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/marchanero?style=flat-square&logo=github)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marchanero&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchanero&theme=dark&hide_border=true&layout=compact" alt="Top languages" />
+**Top languages** (across public repos, updated weekly)
 
-</div>
+<!-- LANGS:START -->
+| Language | | % |
+|---|---|---|
+| C | `██████████████████░░` | 88.7% |
+| C++ | `█░░░░░░░░░░░░░░░░░░░` | 4.1% |
+| Objective-C | `█░░░░░░░░░░░░░░░░░░░` | 2.9% |
+| JavaScript | `░░░░░░░░░░░░░░░░░░░░` | 1.3% |
+| Makefile | `░░░░░░░░░░░░░░░░░░░░` | 1.1% |
+| HTML | `░░░░░░░░░░░░░░░░░░░░` | 0.5% |
+| Python | `░░░░░░░░░░░░░░░░░░░░` | 0.4% |
+| Assembly | `░░░░░░░░░░░░░░░░░░░░` | 0.3% |
+<!-- LANGS:END -->
 
 ---
 

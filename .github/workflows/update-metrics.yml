@@ -36,6 +36,10 @@ jobs:
           s = re.sub(r"<!-- METRICS:START -->.*?<!-- METRICS:END -->", block, s, flags=re.S)
           open("README.md", "w").write(s)
           PY
+      - name: Update top languages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/langs.py
       - name: Commit if changed
         run: |
           git diff --quiet && exit 0
