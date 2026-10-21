@@ -1,5 +1,7 @@
 <div align="center">
 
+🇬🇧 English · [🇪🇸 Español](README.es.md)
+
 # Roberto Sánchez Reolid, PhD
 
 **AI · Physiological signals · Fall detection · Federated learning · Edge AI**
@@ -102,6 +104,15 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 
+## 🧪 Featured repositories
+
+| Repository | Stack |
+|---|---|
+| [personalwebastro](https://github.com/marchanero/personalwebastro) | Astro |
+| [PulseGuard](https://github.com/marchanero/PulseGuard) | HTML |
+| [mern-lector-rfid](https://github.com/marchanero/mern-lector-rfid) | JavaScript |
+| [olympus-ansible-manage](https://github.com/marchanero/olympus-ansible-manage) | Shell |
+
 ## 📊 GitHub stats
 
 ![Followers](https://img.shields.io/github/followers/marchanero?style=flat-square&logo=github)
@@ -120,7 +131,7 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 **Top languages** (across public repos, updated weekly)
 
 <!-- LANGS:START -->
-| Language | | % |
+| | | |
 |---|---|---|
 | JavaScript | `████████████░░░░░░░░` | 58.1% |
 | HTML | `████░░░░░░░░░░░░░░░░` | 19.7% |
@@ -139,6 +150,5 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 ☕ If you like what I do, you can [buy me a coffee](https://buymeacoffee.com/marchanero)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/marchanero)
-[![Visitors](https://visitcount.itsvg.in/api?id=marchanero&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>

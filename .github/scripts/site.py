@@ -30,6 +30,7 @@ def swap(s, name, body):
                   lambda _: f"<!-- {name}:START -->\n{body}\n<!-- {name}:END -->", s, flags=re.S)
 
 
-s = open("README.md").read()
-s = swap(swap(s, "METRICS", metrics), "PUBS", "\n".join(pubs))
-open("README.md", "w").write(s)
+for f in ("README.md", "README.es.md"):
+    s = open(f).read()
+    s = swap(swap(s, "METRICS", metrics), "PUBS", "\n".join(pubs))
+    open(f, "w").write(s)

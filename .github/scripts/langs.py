@@ -26,6 +26,7 @@ rows = "\n".join(
     f"| {l} | `{'█' * round(n / total * 20)}{'░' * (20 - round(n / total * 20))}` | {n / total:.1%} |"
     for l, n in top
 )
-block = f"<!-- LANGS:START -->\n| Language | | % |\n|---|---|---|\n{rows}\n<!-- LANGS:END -->"
-s = open("README.md").read()
-open("README.md", "w").write(re.sub(r"<!-- LANGS:START -->.*?<!-- LANGS:END -->", block, s, flags=re.S))
+block = f"<!-- LANGS:START -->\n| | | |\n|---|---|---|\n{rows}\n<!-- LANGS:END -->"
+for f in ("README.md", "README.es.md"):
+    s = open(f).read()
+    open(f, "w").write(re.sub(r"<!-- LANGS:START -->.*?<!-- LANGS:END -->", lambda _: block, s, flags=re.S))
