@@ -50,11 +50,13 @@ I'm a researcher, professor and developer working to bridge **data science** and
 
 More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreolid.netlify.app/proyectos).
 
-## 📚 Recent publications (2026)
+## 📚 Recent publications
 
-- *EEG activity during a vigilance task reveals distinct frequency band patterns in gifted children*. **Scientific Reports**.
-- *Comparative Evaluation of Recent Deep Architectures for Arousal Classification from Electrodermal Activity*. **IWINAC**.
-- *Safe fall: use of predictive modeling and machine vision techniques for fall analysis and fall quality*. **Sensors** 26(8), 2491.
+<!-- PUBS:START -->
+- [EEG activity during a vigilance task reveals distinct frequency band patterns in gifted children](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCALePwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PCALePwAAAAJ:a0OBvERweLwC). *Scientific Reports, 2026*
+- [Comparative Evaluation of Recent Deep Architectures for Arousal Classification from Electrodermal Activity](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCALePwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PCALePwAAAAJ:4OULZ7Gr8RgC). *International Work-Conference on the Interplay Between Natural and …, 2026*
+- [Safe fall: use of predictive modeling and machine vision techniques for fall analysis and fall quality](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=PCALePwAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=PCALePwAAAAJ:u_35RYKgDlwC). *Sensors 26 (8), 2491, 2026*
+<!-- PUBS:END -->
 
 ➡️ [Full list on Google Scholar](https://scholar.google.com/citations?user=PCALePwAAAAJ&sortby=pubdate) · [ResearchGate](https://www.researchgate.net/profile/Roberto-Sanchez-Reolid)
 
@@ -120,14 +122,14 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 <!-- LANGS:START -->
 | Language | | % |
 |---|---|---|
-| C | `██████████████████░░` | 88.7% |
-| C++ | `█░░░░░░░░░░░░░░░░░░░` | 4.1% |
-| Objective-C | `█░░░░░░░░░░░░░░░░░░░` | 2.9% |
-| JavaScript | `░░░░░░░░░░░░░░░░░░░░` | 1.3% |
-| Makefile | `░░░░░░░░░░░░░░░░░░░░` | 1.1% |
-| HTML | `░░░░░░░░░░░░░░░░░░░░` | 0.5% |
-| Python | `░░░░░░░░░░░░░░░░░░░░` | 0.4% |
-| Assembly | `░░░░░░░░░░░░░░░░░░░░` | 0.3% |
+| JavaScript | `████████████░░░░░░░░` | 58.1% |
+| HTML | `████░░░░░░░░░░░░░░░░` | 19.7% |
+| Python | `█░░░░░░░░░░░░░░░░░░░` | 6.1% |
+| Astro | `█░░░░░░░░░░░░░░░░░░░` | 5.1% |
+| TeX | `█░░░░░░░░░░░░░░░░░░░` | 2.8% |
+| C++ | `█░░░░░░░░░░░░░░░░░░░` | 2.5% |
+| CSS | `░░░░░░░░░░░░░░░░░░░░` | 2.3% |
+| TypeScript | `░░░░░░░░░░░░░░░░░░░░` | 1.4% |
 <!-- LANGS:END -->
 
 ---

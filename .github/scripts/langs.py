@@ -2,6 +2,7 @@
 import json, os, re, urllib.request
 
 USER = "marchanero"
+EXCLUDE = {"mechanical_qmk"}  # vendored keyboard firmware, skews the C share
 H = {"Accept": "application/vnd.github+json"}
 if os.environ.get("GH_TOKEN"):
     H["Authorization"] = "Bearer " + os.environ["GH_TOKEN"]
@@ -14,7 +15,7 @@ def get(url):
 repos = get(f"https://api.github.com/users/{USER}/repos?per_page=100&type=owner")
 totals = {}
 for r in repos:
-    if r["fork"]:
+    if r["fork"] or r["name"] in EXCLUDE:
         continue
     for lang, n in get(r["languages_url"]).items():
         totals[lang] = totals.get(lang, 0) + n
