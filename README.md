@@ -105,6 +105,16 @@ More at [robertosanchezreolid.netlify.app/proyectos](https://robertosanchezreoli
 ![Followers](https://img.shields.io/github/followers/marchanero?style=flat-square&logo=github)
 ![Stars](https://img.shields.io/github/stars/marchanero?style=flat-square&logo=github)
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake.svg" />
+  <img alt="Contribution snake" src="assets/snake.svg" />
+</picture>
+
+</div>
+
 **Top languages** (across public repos, updated weekly)
 
 <!-- LANGS:START -->
