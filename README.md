@@ -13,7 +13,6 @@ Assistant Professor & Researcher at [Universidad de Castilla-La Mancha (UCLM)](h
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4455-370X)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Roberto-Sanchez-Reolid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sanchez-reolid-phd-19215b4a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marchanero)
 
 <!-- METRICS:START -->
 ![Citations](https://img.shields.io/badge/Citations-908-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
