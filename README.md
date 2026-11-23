@@ -15,7 +15,7 @@ Assistant Professor & Researcher at [Universidad de Castilla-La Mancha (UCLM)](h
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sanchez-reolid-phd-19215b4a/)
 
 <!-- METRICS:START -->
-![Citations](https://img.shields.io/badge/Citations-908-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
+![Citations](https://img.shields.io/badge/Citations-912-4285F4?style=flat-square&logo=googlescholar&logoColor=white)
 ![h-index](https://img.shields.io/badge/h--index-16-success?style=flat-square)
 ![i10-index](https://img.shields.io/badge/i10--index-23-success?style=flat-square)
 ![Papers](https://img.shields.io/badge/Papers-62-informational?style=flat-square)
